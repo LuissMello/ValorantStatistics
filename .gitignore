@@ -1,0 +1,18 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/LeagueStatistics/v16/.suo
+/LeagueStatistics/LeagueStatistics.Api/bin/Debug/netcoreapp3.1
+/LeagueStatistics/LeagueStatistics.Api/obj
+/LeagueStatistics/LeagueStatistics.Domain/obj
+/LeagueStatistics/LeagueStatistics.Domain/bin/Debug/netcoreapp3.1
+/LeagueStatistics/LeagueStatistics.Core/obj
+/LeagueStatistics/LeagueStatistics.Core/bin/Debug/netcoreapp3.1
+/.vs
+/ValorantStatistics/ValorantStatistics.Api/bin/Debug/netcoreapp3.1
+/ValorantStatistics/ValorantStatistics.Api/obj
+/ValorantStatistics/ValorantStatistics.Core/obj
+/ValorantStatistics/ValorantStatistics.Core/bin/Debug/netcoreapp3.1
+/ValorantStatistics/ValorantStatistics.Domain/obj
+/ValorantStatistics/ValorantStatistics.Domain/bin/Debug/netcoreapp3.1
